@@ -12,7 +12,7 @@ inputs:
   platform-url:
     description: "42Crunch platform URL"
     required: false
-    default: "https://platform.42crunch.com"
+    default: "https://demolabs.42crunch.cloud/"
   log-level:
     description: "Log level, one of: FATAL, ERROR, WARN, INFO, DEBUG"
     required: false
