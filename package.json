@@ -9,7 +9,7 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/42Crunch/api-security-audit-action.git"
+    "url": "https://github.com/jspeigner-42c/api-security-audit-action.git"
   },
   "license": "AGPL-3.0-only",
   "dependencies": {
