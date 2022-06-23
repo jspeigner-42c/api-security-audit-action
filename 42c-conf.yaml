@@ -27,5 +27,5 @@ audit:
   branches:
     main:
       mapping:
-        petstore.json: b488e862-a459-4f29-abf4-722f475404b9
+        Pixi-InitialVersion.json: b488e862-a459-4f29-abf4-722f475404b9
       discovery: false
